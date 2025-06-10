@@ -47224,7 +47224,16 @@ a.u-link.u-text-hover-color-var:hover {
 
 
 
+@media (max-width: 575px) {
+  .u-header .u-image-1 {
+    margin-top: 24px;
+  }
 
+  .u-header .u-text-1 {
+    width: auto;
+    margin: -44px 55px 40px auto;
+  }
+}
  .u-footer {
   background-image: none;
 }
